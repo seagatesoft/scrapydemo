@@ -1,0 +1,92 @@
+/*Gotham-Xlight*/
+@font-face {
+  font-family: 'Gotham-XLight';
+  src: url('../fonts/Gotham-XLight.eot?#iefix') format('embedded-opentype'),  
+       url('../fonts/Gotham-XLight.otf')  format('opentype'),
+       url('../fonts/Gotham-XLight.woff') format('woff'), 
+       url('../fonts/Gotham-XLight.ttf')  format('truetype'), 
+       url('../fonts/Gotham-XLight.svg#Gotham-XLight') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*Gotham-Light*/
+@font-face {
+  font-family: 'Gotham-Light';
+  src: url('../fonts/Gotham-Light.eot?#iefix') format('embedded-opentype'),  
+       url('../fonts/Gotham-Light.otf')  format('opentype'),
+	     url('../fonts/Gotham-Light.woff') format('woff'), 
+       url('../fonts/Gotham-Light.ttf')  format('truetype'), 
+       url('../fonts/Gotham-Light.svg#Gotham-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*Gotham-LightItalic*/
+@font-face {
+  font-family: 'Gotham-LightItalic';
+  src: url('../fonts/Gotham-LightItalic.eot?#iefix') format('embedded-opentype'),  
+       url('../fonts/Gotham-LightItalic.otf')  format('opentype'),
+	     url('../fonts/Gotham-LightItalic.woff') format('woff'), 
+       url('../fonts/Gotham-LightItalic.ttf')  format('truetype'), 
+       url('../fonts/Gotham-LightItalic.svg#Gotham-LightItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*Gotham-Medium*/
+@font-face {
+  font-family: 'Gotham-Medium';
+  src: url('../fonts/Gotham-Medium.eot?#iefix') format('embedded-opentype'),  
+       url('../fonts/Gotham-Medium.otf')  format('opentype'),
+	     url('../fonts/Gotham-Medium.woff') format('woff'), 
+       url('../fonts/Gotham-Medium.ttf')  format('truetype'), 
+       url('../fonts/Gotham-Medium.svg#Gotham-Medium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*Gotham-MediumItalic*/
+@font-face {
+  font-family: 'Gotham-MediumItalic';
+  src: url('../fonts/Gotham-MediumItalic.eot?#iefix') format('embedded-opentype'),  
+       url('../fonts/Gotham-MediumItalic.otf')  format('opentype'),
+	     url('../fonts/Gotham-MediumItalic.woff') format('woff'), url('../fonts/Gotham-MediumItalic.ttf')  format('truetype'), url('Gotham-MediumItalic.svg#Gotham-MediumItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/******************/
+
+/*DemosCom-Regular*/
+@font-face {
+  font-family: 'DemosCom-Regular';
+  src: url('../fonts/DemosCom-Regular.eot?#iefix') format('embedded-opentype'),  
+       url('../fonts/DemosCom-Regular.woff') format('woff'), 
+       url('../fonts/DemosCom-Regular.ttf')  format('truetype'), 
+       url('../fonts/DemosCom-Regular.svg#DemosCom-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*DemosCom-Bold*/
+@font-face {
+  font-family: 'DemosCom-Bold';
+  src: url('../fonts/DemosCom-Bold.eot?#iefix') format('embedded-opentype'),  
+       url('../fonts/DemosCom-Bold.woff') format('woff'), 
+       url('../fonts/DemosCom-Bold.ttf')  format('truetype'), 
+       url('../fonts/DemosCom-Bold.svg#DemosCom-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*DemosCom-Italic*/
+@font-face {
+  font-family: 'DemosCom-Italic';
+  src: url('../fonts/DemosCom-Italic.eot?#iefix') format('embedded-opentype'),  
+       url('../fonts/DemosCom-Italic.woff') format('woff'), 
+       url('../fonts/DemosCom-Italic.ttf')  format('truetype'), 
+       url('../fonts/DemosCom-Italic.svg#DemosCom-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
